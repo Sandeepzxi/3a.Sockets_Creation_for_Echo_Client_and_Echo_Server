@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+## Name:Sandeep S
+## Reg:212223220092
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
